@@ -27,5 +27,5 @@ This project provides a comprehensive solution for summarizing audio and video c
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/audio-video-summarizer.git
-   cd audio-video-summarizer
+   git clone https://github.com/Nareshedagotti/Audio-and-video-summarizer.git
+   cd Audio-and-video-summarizer
