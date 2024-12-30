@@ -22,6 +22,8 @@ This project provides a comprehensive solution for summarizing audio and video c
   - `torch`
   - `langchain_groq`
   - `dotenv`
+## WEBAPP Image
+![Screenshot 2024-12-30 105747](https://github.com/user-attachments/assets/80e03d9d-ed18-4b25-8eba-f6355e76957e)
 
 ## Installation
 
